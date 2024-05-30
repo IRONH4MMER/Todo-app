@@ -7,6 +7,7 @@ The Todo App landing page, created with React, showcases a clean and intuitive i
 - **TypeScript:** For enhanced code quality and type safety.
 - **CSS:** For styling and ensuring a visually appealing design.
 - **HTML5:** For structuring the content.
+- **React Transition Group**: Smooth animations and transitions.
 
 Explore more [here](https://ironh4mmer.github.io/Todo-app/).
 
