@@ -9,3 +9,9 @@ The Todo App landing page, created with React, showcases a clean and intuitive i
 - **HTML5:** For structuring the content.
 
 Explore more [here](https://ironh4mmer.github.io/Todo-app/).
+
+**To run it locally do:**
+
+1. ```git clone https://github.com/IRONH4MMER/Todo-app.git```
+2. ```npm i```
+2. ```npm start```
