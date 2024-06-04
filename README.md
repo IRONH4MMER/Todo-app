@@ -1,4 +1,4 @@
-**Todo App Landing Page**
+**Todo App**
 
 The Todo App, created with React, showcases a clean and intuitive interface for managing tasks. It uses modern web technologies to enhance functionality and user experience:
 
