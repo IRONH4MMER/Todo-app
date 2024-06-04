@@ -1,6 +1,6 @@
 **Todo App Landing Page**
 
-The Todo App landing page, created with React, showcases a clean and intuitive interface for managing tasks. It uses modern web technologies to enhance functionality and user experience:
+The Todo App, created with React, showcases a clean and intuitive interface for managing tasks. It uses modern web technologies to enhance functionality and user experience:
 
 - **React:** For building a dynamic, responsive UI with component-based architecture.
 - **JavaScript (ES6+):** For efficient and clean code management.
